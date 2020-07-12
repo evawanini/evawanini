@@ -1,3 +1,7 @@
+<!DOCTYPE html>
+<head>
+ </head>
+ <body>
 ### Hi Amigos :) I am Everlyn Wanini👋
 
  ⚡I am a Web Developer! 
@@ -12,7 +16,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
 - 📫 How to reach me: Twitter: @wanini_everlyn
-                       Facebook: @Everlyn Wanini Ndung'u
+                       <a href="#" class="fa fa-facebook"></a>: @Everlyn Wanini Ndung'u
                        LinkedIn: @Everlyn Wanini
                        Instagram: @_wanini
                        Gmail: evelynwanini14@gmail.com
@@ -20,3 +24,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</body>
+</html>
