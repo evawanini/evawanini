@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
 - 📫 How to reach me: Twitter: @wanini_everlyn
-                       <a href="#" class="fa fa-facebook"></a>: @Everlyn Wanini Ndung'u
+                       <a href="#" class="fa fa-facebook">@Everlyn Wanini Ndung'u</a>: 
                        LinkedIn: @Everlyn Wanini
                        Instagram: @_wanini
                        Gmail: evelynwanini14@gmail.com
