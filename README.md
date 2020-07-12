@@ -1,8 +1,10 @@
+<!--
 <!DOCTYPE html>
 <html>
 <head>
  </head>
  <body>
+  -->
 ### Hi Amigos :) I am Everlyn Wanini👋
 
  ⚡I am a Web Developer! 
@@ -21,9 +23,9 @@ Here are some ideas to get you started:
                        LinkedIn: @Everlyn Wanini
                        Instagram: @_wanini
                        Gmail: evelynwanini14@gmail.com
-  <!--                     
+                      
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 </body>
 </html>
+-->
