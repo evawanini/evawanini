@@ -1,10 +1,5 @@
-<!--
-<!DOCTYPE html>
-<html>
-<head>
- </head>
- <body>
-  -->
+
+
 ### Hi Amigos :) I am Everlyn Wanini👋
 
  ⚡I am a Web Developer! 
@@ -17,7 +12,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python Flask and JavaScript
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ... -->
+- 💬 Ask me about ... 
+
+
 - 📫 How to reach me: Twitter: @wanini_everlyn
                        <a href="#" class="fa fa-facebook">@Everlyn Wanini Ndung'u</a>: 
                        LinkedIn: @Everlyn Wanini
